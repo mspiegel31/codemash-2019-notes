@@ -1,0 +1,1 @@
+Speakers would occassionally offer a slide download for their presentations.  These are slides that I acquired, but did not attend
