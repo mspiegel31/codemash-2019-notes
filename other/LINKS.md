@@ -1,0 +1,5 @@
+[Team Health](http://claydowling.com/teamhealth/#/)
+[Leadership Guide for the Reluctant Leader](https://www.youtube.com/watch?v=0h5X5UKWao8)
+[What Every Beginning Developer Should Know](https://www.slideshare.net/petdance/what-every-beginning-developer-should-know)
+[Building a Design System](https://design-systems.buildright.io/#/)
+[I Built An Artificial Pancreas](https://slides.com/geekygirlsarah/i-built-an-artificial-pancreas/#/)

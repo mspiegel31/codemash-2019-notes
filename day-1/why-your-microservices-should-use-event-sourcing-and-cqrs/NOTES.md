@@ -1,4 +1,5 @@
 # Why-your-microservices-should-use-event-sourcing-and-cqrs
+[Talk Recording](https://www.youtube.com/watch?v=NY9spSccR-0&amp=&t=428s)
 ## System of loosely coupled services
 1. Independently deployable
 1. **Owns its own schema**

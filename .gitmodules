@@ -7,3 +7,6 @@
 [submodule "workshops/DesignSystemStarter"]
 	path = workshops/DesignSystemStarter
 	url = git@github.com:mspiegel31/DesignSystemStarter.git
+[submodule "other/Presentations"]
+	path = other/Presentations
+	url = https://github.com/MFazio23/Presentations.git
