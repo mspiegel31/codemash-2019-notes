@@ -1,0 +1,9 @@
+[submodule "workshops/kubernetes-hands-on-workshop"]
+	path = workshops/kubernetes-hands-on-workshop
+	url = git@github.com:mspiegel31/kubernetes-hands-on-workshop.git
+[submodule "workshops/production-ready-rn-codemash-2019"]
+	path = workshops/production-ready-rn-codemash-2019
+	url = git@github.com:mspiegel31/production-ready-rn-codemash-2019.git
+[submodule "workshops/DesignSystemStarter"]
+	path = workshops/DesignSystemStarter
+	url = git@github.com:mspiegel31/DesignSystemStarter.git
