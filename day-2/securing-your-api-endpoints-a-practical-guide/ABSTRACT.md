@@ -1,0 +1,4 @@
+Securing Your API Endpoints - A Practical Authentication Guide
+Presented by: [Seth Petry-Johnson](https://www.codemash.org/speaker-details/?id=b7235790-4c4a-491c-a8a1-1ed82a5d70b3)
+Time: Friday, Jan. 11, 11:00 AM - 12:00 PM
+It's never been easier to expose services over HTTP. It's also never been easier to inadvertently expose security holes via those same services. This session is designed for any developer or architect that wants a conceptual overview of API security without getting into the weeds of cryptography or complex authentication frameworks. You'll learn about OAuth, API Keys, HMAC, JSON Web Tokens (JWT) and more. Don't worry if those things sound foreign; they'll be explained in a clear, practical way so that you’ll be able to choose the appropriate tool for your specific needs.
