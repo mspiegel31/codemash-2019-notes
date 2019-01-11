@@ -1,5 +1,5 @@
 # Securing Your API Endpoints - A Practical Authentication Guide
-NOTE TO READER:  presenter moved really quickly, but his slides are excellent.  These are in the same folder; read those instead
+NOTE TO READER:  presenter moved really quickly, but his slides are excellent.  These are in the same folder; read those instead.
 
 ## Overview
 1. Identity vs Authentication vs Authorization

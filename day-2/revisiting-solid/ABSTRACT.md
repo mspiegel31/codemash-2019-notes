@@ -1,0 +1,4 @@
+Revisiting SOLID - Making the 5 principles easy enough to implement
+Presented by: [Tim Corey](https://www.codemash.org/speaker-details/?id=1881c98b-0532-476b-906e-3b8c74f4935f)
+Time: Friday, Jan. 11, 12:15 PM - 1:15 PM
+Can you explain what all five principles in SOLID do? The purpose behind SOLID was to encourage writing loosely-coupled, extendable, predictable applications that were easier to test and easier to upgrade over time. Does that describe the applications you work on? If not, this session is for you. This session takes a practical look at the SOLID principles to see how they can be applied to new and existing applications to make them better over time. You will leave this session with a deeper understand of the practical ways to implement SOLID, as well as all source code for the session.
