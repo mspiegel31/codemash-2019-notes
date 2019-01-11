@@ -1,0 +1,4 @@
+Hotness === Serverless - Learn how to harness the power of Lambda's in AWS
+Presented by: [Derik Whittaker](https://www.codemash.org/speaker-details/?id=37e04c24-729d-4674-b9b2-8fa172eed71e)
+Time: Friday, Jan. 11, 8:30 AM - 9:30 AM
+The Cloud is all the rage these days and Serverless is one of the driving forces behind the Cloud. Have you heard about Serverless technologies but are still unsure what they are? This session is for you. We will explore how AWS Lambda's allow you to harness the power of the Serverless Cloud. We will go A to Z in our journey and by the end of this session you will know how to code, debug, deploy and harness the power of Servless technologies like AWS Lambdas.

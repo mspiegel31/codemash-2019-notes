@@ -10,3 +10,6 @@
 [submodule "other/Presentations"]
 	path = other/Presentations
 	url = https://github.com/MFazio23/Presentations.git
+[submodule "day-2/api-on-the-scale-of-decades/apis-for-decades"]
+	path = day-2/api-on-the-scale-of-decades/apis-for-decades
+	url = https://github.com/garyfleming/apis-for-decades.git
